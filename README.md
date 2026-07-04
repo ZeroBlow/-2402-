@@ -10,14 +10,17 @@
    cd abandoned_object_detection
    
 2. Создайте виртуальное окружение:
+   ```bash
    python -m venv venv
    venv\Scripts\activate  # Windows
    source venv/bin/activate  # Mac/Linux
    
-3. Установите зависимости:
+4. Установите зависимости:
+   ```bash
    pip install flask ultralytics opencv-python numpy
    
-4. Запустите приложение:
+6. Запустите приложение:
+   ```bash
    python app.py
    
-5. Откройте в браузере: http://127.0.0.1:5000
+8. Откройте в браузере: http://127.0.0.1:5000
