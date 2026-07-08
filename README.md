@@ -7,7 +7,6 @@
 1. Клонируйте репозиторий:
    ```bash
    git clone https://github.com/ZeroBlow/-2402-
-   cd abandoned_object_detection
    
 2. Создайте виртуальное окружение:
    ```bash
